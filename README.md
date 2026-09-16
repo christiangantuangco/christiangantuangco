@@ -1,19 +1,23 @@
 ## Hi there, I'm Christian 👋
 
 ### About me! 🤓
-A developer with a year of experience, building applications primarily out of curiosity and
-personal interest. Someone who gets the job done, not to the extreme, but just enough.
+A software engineer with a backend-leaning focus, building reliable, well-architected applications across the stack.
 
 ```
 {
   "frontend": {
     "summary": "Creating responsive, interactive user interfaces with reusable components that promote consistency and efficiency across applications.",
-    "stack": ["Typescript", "Angular", "Blazor", "Next.js"]
+    "stack": ["TypeScript", "Angular", "React", "Blazor", "Next.js"]
   },
   "backend": {
     "summary": "Designing and optimizing APIs, managing relational databases, and improving legacy systems for better performance and reliability.",
-    "stack": ["C#", "Rust", "ASP.NET", "Docker", "AWS"]
-  }
+    "stack": ["C#", ".NET", "Rust", "Go", "Ruby on Rails"]
+  },
+  "infrastructure": {
+    "summary": "Deploying and scaling applications with containerization, cloud infrastructure, and event-driven data pipelines.",
+    "stack": ["Docker", "Azure", "Kafka", "Redis"]
+  },
+  "interests": ["Tech", "Gaming"]
 }
 ```
 
