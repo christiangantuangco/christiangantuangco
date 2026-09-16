@@ -3,7 +3,7 @@
 ### About me! 🤓
 A software engineer with a backend-leaning focus, building reliable, well-architected applications across the stack.
 
-```
+```json
 {
   "frontend": {
     "summary": "Creating responsive, interactive user interfaces with reusable components that promote consistency and efficiency across applications.",
