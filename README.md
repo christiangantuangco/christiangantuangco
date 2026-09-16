@@ -2,8 +2,7 @@
 
 ### About me! 🤓
 A developer with a year of experience, building applications primarily out of curiosity and
-personal interest. Someone who gets the job done, not to the extreme, but just enough, although being
-an overthinker can sometimes be a double-edged sword.
+personal interest. Someone who gets the job done, not to the extreme, but just enough.
 
 ```
 {
