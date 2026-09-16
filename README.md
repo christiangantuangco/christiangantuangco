@@ -1,7 +1,7 @@
 ## Hi there, I'm Christian 👋
 
 ### About me! 🤓
-A software engineer with a backend-leaning focus, building reliable, well-architected applications across the stack.
+A software engineer primarily interested in backend development, but thrives working across every part of the stack.
 
 ```json
 {
