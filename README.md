@@ -11,7 +11,7 @@ A software engineer primarily interested in backend development, but thrives wor
   },
   "backend": {
     "summary": "Designing and optimizing APIs, managing relational databases, and improving legacy systems for better performance and reliability.",
-    "stack": ["C#", ".NET", "Rust", "Go", "Ruby on Rails"]
+    "stack": [".NET", "Rust", "Go", "Ruby on Rails"]
   },
   "infrastructure": {
     "summary": "Deploying and scaling applications with containerization, cloud infrastructure, and event-driven data pipelines.",
